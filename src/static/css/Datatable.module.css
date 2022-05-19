@@ -1,0 +1,7 @@
+.btnSort:focus {
+  box-shadow: none;
+}
+
+.selected {
+  background-color: rgba(82, 143, 255, 0.3) !important;
+}
